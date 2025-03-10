@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "domain": "my_tcp_switch",
+    "name": "TCP Switch and Sensor",
+    "config_flow": true,
+    "documentation": "https://example.com",
+    "dependencies": [],
+    "codeowners": ["@yourgithub"],
+    "requirements": [],
+    "iot_class": "local_polling"
+}
